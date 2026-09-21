@@ -4,7 +4,7 @@
 
 ## ¿Qué es un programa informático? <br>
 
-Un programa informático o programa de computadora es una captura de pantalla secuencia de instrucciones u órdenes basadas en un lenguaje de programación que una computadora interpreta para resolver un problema o una función específica. Este dispositivo requiere programas para funcionar, por lo general, ejecutando las instrucciones del programa en un procesador central.
+Un programa informático es una secuencia de instrucciones u órdenes basadas en un lenguaje de programación que una computadora interpreta para resolver un problema o una función específica. Este dispositivo requiere programas para funcionar, por lo general, ejecutando las instrucciones del programa en un procesador central.
 
 ## Diferencia entre código fuente, código objeto y código ejecutable. <br>
 
@@ -14,9 +14,11 @@ Un programa informático o programa de computadora es una captura de pantalla se
    Este código está escrito en un lenguaje de programación específico, como C, C++, Java, Python, JavaScript, entre otros. <br>
 
    1.2 **Características:** <br>
-   - **Legibilidad:** Está diseñado para ser leído y escrito por programadores.
-   - **Ejemplo:** Un archivo con extensión `.c` para C, `.cpp` para C++, o `.java` para Java, contiene código fuente. <br> <br>
-     ![Captura código fuente Arduino](img/captura_codigo_fuente_arduino.png)<br>
+   - **Legibilidad:** Está diseñado para ser leído y escrito por programadores. <br>
+
+     **Ejemplo:** Un archivo con extensión `.c` para C, `.cpp` para C++, o `.java` para Java, contiene código fuente. <br> <br>
+
+     ![Captura código fuente Arduino](img/captura_codigo_fuente_arduino.png) <br>
 
 2. **Código Objeto:** <br>
 
@@ -24,13 +26,17 @@ Un programa informático o programa de computadora es una captura de pantalla se
 
    2.2 **Características:** <br>
    - **Binario no ejecutable:** No puede ser ejecutado por sí mismo, pero puede ser enlazado para formar un archivo ejecutable. <br>
-   - **Ejemplo:** En C o C++, el archivo con extensión .o (objeto) o .obj contiene el código objeto. Java: En Java, el código objeto se denomina ByteCode y se guarda en archivos con extensión .class. <br>
+
+     **Ejemplo:** En C o C++, el archivo con extensión .o (objeto) o .obj contiene el código objeto. Java: En Java, el código objeto se denomina ByteCode y se guarda en archivos con extensión .class. <br> <br>
 
 3. **Código Ejecutable:** <br>
-   3.1 **Definición:** El código ejecutable es un archivo binario que puede ser ejecutado directamente por el sistema operativo. Este archivo es el resultado final de la compilación (y, en algunos casos, el enlace) del código fuente.
+
+   3.1 **Definición:** El código ejecutable es un archivo binario que puede ser ejecutado directamente por el sistema operativo. Este archivo es el resultado final de la compilación (y, en algunos casos, el enlace) del código fuente.<br>
+
    3.2 **Características:** <br>
-   - **Binario ejecutable:** Puede ser ejecutado por la máquina sin necesidad de compilar o interpretar más.
-   - **Ejemplo:** En sistemas Windows, es un archivo con extensión .exe. En sistemas Unix-like, es un archivo sin extensión específica, como el archivo binario en el directorio /usr/bin/. <br><br>
+   - **Binario ejecutable:** Puede ser ejecutado por la máquina sin necesidad de compilar o interpretar más. <br>
+
+     **Ejemplo:** En sistemas Windows, es un archivo con extensión .exe. En sistemas Unix-like, es un archivo sin extensión específica, como el archivo binario en el directorio /usr/bin/. <br><br>
      ![Captura código ejecutable](img/captura_codigo_ejecutable.png) <br>
 
 ## Etapas del desarrollo del software.<br>
