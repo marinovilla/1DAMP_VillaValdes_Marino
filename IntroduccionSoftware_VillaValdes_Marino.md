@@ -1,4 +1,4 @@
-[REPOSITORIO MARINO VILLA](https://github.com/marinovilla/1DAMP_VillaValdes_Marino.git)
+[REPOSITORIO MARINO VILLA](https://github.com/marinovilla/1DAMV_VillaValdes_Marino)
 
 # EJERCICIO 01 <br>
 
